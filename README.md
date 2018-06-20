@@ -3,7 +3,7 @@
 ## Versions
 
 Node 10.4.1
-Prisma CLI 1.10
+Prisma CLI 1.10 (npm install -g prisma)
 macOS 10.13.5
 
 Tested using a hosted postgres database on compose.io
